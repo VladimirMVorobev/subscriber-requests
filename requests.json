@@ -1,0 +1,14 @@
+[
+    {
+        "id": "7f7041f0-2cf4-4fdb-a802-24f8f0b8bf57",
+        "last_name": "Иванов",
+        "first_name": "Иван",
+        "birth_date": "2000-05-15",
+        "phone": "+79991234567",
+        "email": "ivan@example.com",
+        "reasons": [
+            "нет доступа к сети"
+        ],
+        "problem_datetime": "2025-01-15T10:30:00+03:00"
+    }
+]
